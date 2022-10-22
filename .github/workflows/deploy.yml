@@ -5,6 +5,7 @@ on:
     branches: ["main"]
   workflow_dispatch:
 
+# read
 permissions:
   contents: write
   pages: write
